@@ -13,4 +13,8 @@ public class Dado {
 		public int getValor(){
 			return this.valor;
 		}
+		
+		public static void main (String [] args){
+			System.out.println("Pruebas del dado");
+		}
 }
